@@ -1,4 +1,4 @@
-# MIT-Opencourse-Notebook
+# MIT-OpenCourse-Notebook
 mathmatics&amp;physics&amp;eclectical engineering
 ## Linear Algebra
 Website:https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
